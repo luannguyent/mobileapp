@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManagement.iOS", "Mone
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MoneyManagement\MoneyManagement\MoneyManagement.projitems*{3597a4b5-f68c-4a16-b186-4eb6097e5f27}*SharedItemsImports = 4
 		MoneyManagement\MoneyManagement\MoneyManagement.projitems*{85ff1186-fe2f-47c2-a348-e30971ecc3a7}*SharedItemsImports = 13
 		MoneyManagement\MoneyManagement\MoneyManagement.projitems*{fa62d405-5b6b-4826-968a-40ff0d51dc4b}*SharedItemsImports = 4
 	EndGlobalSection
